@@ -1,0 +1,17 @@
+{
+  "name": "curio-workbench",
+  "version": "0.1.0",
+  "description": "A creative software workspace for interactive projects, experiments, and learning.",
+  "private": true,
+  "type": "module",
+  "scripts": {},
+  "keywords": [
+    "curiosity",
+    "experiments",
+    "learning",
+    "games",
+    "utilities"
+  ],
+  "author": "Inferno403",
+  "license": "UNLICENSED"
+}
