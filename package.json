@@ -13,9 +13,14 @@
     "utilities"
   ],
   "workspaces": [
-  "apps/*",
-  "packages/*"
+    "apps/*",
+    "packages/*"
   ],
   "author": "Inferno403",
-  "license": "UNLICENSED"
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@types/node": "^26.1.2",
+    "tsx": "^4.23.4",
+    "typescript": "^7.0.2"
+  }
 }
