@@ -12,6 +12,10 @@
     "games",
     "utilities"
   ],
+  "workspaces": [
+  "apps/*",
+  "packages/*"
+  ],
   "author": "Inferno403",
   "license": "UNLICENSED"
 }
