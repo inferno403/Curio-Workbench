@@ -4,6 +4,6 @@ A collection of creative software projects built around curiosity, experimentati
 
 ## Philosophy
 
-Curio Workbench exists to encourage exploration through software.
+Curio Workbench exists to engage or assist people with short (or long!) games, software like a whiteboard, or other random things!
 
-Every project is designed to be interactive, educational, or simply fun to use.
+Every project is designed to be interactive, intuitive or simply fun to use. 
