@@ -115,31 +115,23 @@ coverage/
 
 
 ###############################################
-# IDE - Visual Studio Code
+# IDE
 ###############################################
 
+# VS Code
 .vscode/*
 !.vscode/extensions.json
 !.vscode/settings.json.example
 
 .vscode-test/
 
-
-###############################################
-# IDE - JetBrains
-###############################################
-
+# JetBrains
 .idea/
-
 *.iml
 *.ipr
 *.iws
 
-
-###############################################
-# IDE - Visual Studio
-###############################################
-
+# Visual Studio
 .vs/
 
 *.suo
@@ -147,20 +139,12 @@ coverage/
 *.userosscache
 *.sln.docstates
 
-
-###############################################
-# IDE - Eclipse
-###############################################
-
+# Eclipse
 .classpath
 .project
 .settings/
 
-
-###############################################
-# IDE - Sublime Text
-###############################################
-
+# Sublime Text
 *.sublime-project
 *.sublime-workspace
 
